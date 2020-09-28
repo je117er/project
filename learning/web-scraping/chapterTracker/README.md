@@ -1,6 +1,7 @@
 A simple python script to find a new chapter's info from metruyenchu.com, and save new chapter's contents to a local directory. Info included:
 * Latest chapter title
 * Last updated time
+
 Script was written in python 3. Run python 2 at your own risk. Some sample chapters are included in folder *sample*.
 
 ## Usage:
